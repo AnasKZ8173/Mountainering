@@ -1,0 +1,341 @@
+@media screen and (max-width: 1470px){
+    .content-1 img{
+        top: -70px;
+        width: 60%;
+    }
+    .con-2{
+        padding: 30px 20px;
+    }
+    .lt-col img{
+        height: 370px;
+    }
+}
+@media screen and (max-width: 1199px){
+    .content-1 img{
+        width: 50%;
+    }
+    .cards-col:nth-child(3){
+        margin-top: 20px;
+    }
+    .for-col-gap:nth-child(3){
+        margin-top: 90px !important;
+    }
+    .lt-col img{
+        height: 300px;
+    }
+    .about-area div{
+        padding: 0px 0px 0px 200px;
+    }
+}
+@media screen and (max-width: 1030px){
+    .about-area div{
+        padding: 0px 0px 0px 140px;
+    }
+}
+@media screen and (max-width: 980px){
+    .content-1 img{
+        width: 60%;
+    }
+}
+@media screen and (max-width: 890px){
+    .nav-2{
+        display: none !important;
+    }
+    .nav-3{
+        display: block;
+        margin-right: 30px;
+    }
+    nav{
+        justify-content: space-between;
+    }
+    .hamburger{
+        height: 100px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .fixed-nav{
+        display: none !important;
+    }
+    .content-1 img{
+        width: 67%;
+    }
+    .crd{
+        width: 90%;
+    }
+    .about-area div{
+        padding: 0px 0px 0px 100px;
+    }
+}
+@media screen and (max-width: 767px){
+    .content-1 img{
+        width: 50%;
+        top: -120px;
+    }
+    .crd{
+        width: 80%;
+    }
+    .cards-col:nth-child(2){
+        margin-top: 20px;
+    }
+    .for-col-gap:nth-child(2){
+        margin-top: 140px !important;
+    }
+    .for-col-gap:nth-child(3){
+        margin-top: 140px !important;
+    }
+}
+@media screen and (max-width: 750px){
+    .about-area div{
+        padding: 0px 0px 0px 70px;
+    }
+}
+@media screen and (max-width: 650px){
+    .about-area div{
+        padding: 0px 0px 0px 40px;
+    }
+}
+@media screen and (max-width: 620px){
+    .fa-bars {
+        font-size: 22px;
+    }
+    .back-image{
+        background-position: right ;
+    }
+    .nav-1 img{
+        height: 90px;
+    }
+    nav{
+        padding: 20px 30px;
+    }
+    .content-1 img{
+        width: 50%;
+        top: -70px;
+    }
+    .for-col-gap:nth-child(2){
+        margin-top: 90px !important;
+    }
+    .for-col-gap:nth-child(3){
+        margin-top: 90px !important;
+    }
+    .about-area div{
+        padding: 0px 0px 0px 20px;
+    }
+    .about-area div h1{ 
+        font-size: 40px;
+    }
+    .about-area div p{ 
+        font-size: 18px;
+    }
+}
+@media screen and (max-width: 520px){
+    .fa-bars {
+        font-size: 20px;
+    }
+    .nav-3{
+        margin-right: 25px;
+    }  
+    .content-1 img{
+        width: 50%;
+    }
+    .crd{
+        width: 95%;
+    }
+}
+@media screen and (max-width: 450px){
+    .nav-1 img{
+        height: 70px;
+    }
+    nav{
+        padding: 5px 20px;
+    }
+    .lt-col img{
+        height: 250px;
+    }
+    p{
+        font-size: 15px !important;
+    }
+    h1{
+        font-size: 28px !important;
+    }
+    h2{
+        font-size: 27px !important;
+    }
+    h3{
+        font-size: 25px !important;
+    }
+    h4{
+        font-size: 20px !important;
+    }
+    h5{
+        font-size: 18px !important;
+    }
+    h6{
+        font-size: 16px !important;
+    }
+}
+@media screen and (max-width: 410px){
+    .fa-bars {
+        font-size: 17px;
+    }
+    .nav-3{
+        margin-right: 20px;
+    }
+    p{
+        font-size: 13px !important;
+    }
+    .content-1 img{
+        width: 70%;
+    }
+    h5{
+        font-size: 18px !important;
+    }
+    .lt-col img{
+        height: 200px;
+    }
+}
+@media screen and (max-width: 345px){
+    .fa-bars {
+        font-size: 15px;
+    }
+    .nav-3{
+        margin-right: 15px;
+    }
+    .con-2{
+        padding: 30px 15px;
+    }
+}
+/* gallery section */
+
+
+@media screen and (max-width:1350px){
+    #img-gl-con{
+        padding: 100px 50px;
+    }
+}
+@media screen and (max-width:992px){
+    #img-gl-con{
+        padding: 100px 80px;
+    }
+}
+@media screen and (max-width:830px){
+    #img-gl-con{
+        padding: 100px 50px;
+    }
+}
+@media screen and (max-width:740px){
+    #img-gl-con{
+        padding: 100px 20px;
+    }
+    .img-crd img{
+        height: 48vh;
+    }
+    .img-crd video{
+        height: 48vh;
+    }
+}
+@media screen and (max-width:640px){
+    #img-gl-con{
+        padding: 100px 20px;
+    }
+    .img-crd img{
+        height: 42vh;
+    }
+    .img-crd video{
+        height: 42vh;
+    }
+}
+@media screen and (max-width:576px){
+    #img-gl-con{
+        padding: 100px 100px;
+    }
+}
+@media screen and (max-width:500px){
+    #img-gl-con{
+        padding: 100px 80px;
+    }
+}
+@media screen and (max-width:450px){
+    #img-gl-con{
+        padding: 100px 60px;
+    }
+}
+@media screen and (max-width:380px){
+    #img-gl-con{
+        padding: 100px 40px;
+    }
+}
+@media screen and (max-width:350px){
+    #img-gl-con{
+        padding: 100px 20px;
+    }
+}
+/* footer section */
+
+@media screen and (max-width:1150px){
+    .footer-col-pad-1{
+        padding: 10px 0px 0px 0px;
+    }
+    .footer-col-pad-1 h2{
+        font-size: 25px;
+    }
+    .footer-col-pad-2{
+        padding: 0px 0px 0px 20px;
+    }
+    .footer-col-pad-3{
+        padding: 0px 0px 40px 15px ;
+    }
+}
+@media screen and (max-width:992px){
+    .footer-col-pad-1 h2{
+        font-size: 30px;
+    }
+}
+@media screen and (max-width:720px){
+    .footer-col-pad-1 h2{
+        font-size: 25px;
+    }
+    .footer-col-pad-1 img{
+        height: 70px;
+        width: 120px;
+    }
+}
+@media screen and (max-width:625px){
+    .footer-col-pad-1 h2{
+        font-size: 23px;
+    }
+    .footer-col-pad-1 img{
+        height: 50px;
+        width: 100px;
+    }
+}
+@media screen and (max-width:576px){
+    .footer-col-pad-1 h2{
+        font-size: 27px;
+    }
+    .footer-col-pad-1 img{
+        height: 80px;
+        width: 120px;
+    }
+    .footer-last-col-col2 div h4{
+        font-size: 20px;
+    }
+    .footer-col:nth-child(2){
+        height: 300px;
+    }
+    .footer-col:nth-child(3){
+        height: 300px;
+    }
+    .footer-col:nth-child(4){
+        height: 300px;
+    }
+}
+@media screen and (max-width:350px){
+    .footer-col-pad-1 h2{
+        font-size: 25px;
+    }
+    .footer-col-pad-1 img{
+        height: 60px;
+        width: 100px;
+    }
+}

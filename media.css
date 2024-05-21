@@ -1,0 +1,585 @@
+@media screen and (max-width: 1300px){
+    .lt-tc-crd{
+        height: 380px;
+    }
+}
+@media screen and (max-width:1280px) {
+    .about-cont{
+        padding: 20px 150px;
+    }
+    .serv-con{
+        padding: 10px 120px;
+    }
+}
+@media screen and (max-width: 1200px){
+    .forEnd{
+        width: 100%;
+    }
+    .pic-ctn > img{
+        height: 350px;
+    }
+    .class{
+        height: 330px;
+    }
+    .card img{
+        height: 65%;
+        width: 35%;
+    }
+    .crd-info-1{
+        padding: 0px 0px 0px 30px;
+    }
+}
+@media screen and (max-width:1150px){
+    .footer-col-pad-1{
+        padding: 10px 0px 0px 0px;
+    }
+    .footer-col-pad-1 h2{
+        font-size: 25px;
+    }
+    .footer-col-pad-2{
+        padding: 0px 0px 0px 20px;
+    }
+    .footer-col-pad-3{
+        padding: 0px 0px 40px 15px ;
+    }
+}
+@media screen and (max-width: 1130px){
+    .about-cont1 h1{
+        font-size: 47px;
+    }
+    .animation{
+        transform: translateX(30px);
+    }
+    .crd-info-1{
+        padding: 0px 0px 0px 20px;
+    }
+    .about-cont{
+        padding: 20px 100px;
+    }
+}
+@media screen and (max-width: 1080px){
+    .lt-tc-crd{
+        height: 410px;
+    }
+    .tc-crd-cont-1 img{
+        height: 150px;
+    }
+}
+@media screen and (max-width: 1050px){
+    .about-cont1 h1{
+        font-size: 43px;
+    }
+    .animation{
+        transform: translateX(25px);
+    }
+    .card img{
+        height: 45%;
+        width: 40%;
+    }
+    .class div{
+        flex-direction: column;
+        padding: 10px 10px;
+        overflow: hidden;
+    }
+    .class div p{
+        font-size: 15px;
+    }
+    .crd-info-1{
+        padding: 0px 0px 0px 15px;
+    }
+    .crd-info2 div h4{
+        font-size: 17px;
+    }
+    .crd-info2 div p{
+        font-size: 15px;
+    }
+    .serv-con{
+        padding: 10px 75px;
+    }
+}
+@media screen and (max-width:1040px) {
+    .about-cont{
+        padding: 20px 70px;
+    }
+}
+@media screen and (max-width: 992px){
+    .about-crd-height:nth-child(2){
+        border: none;
+    }
+    .for-gap-abt-crd{
+        margin-top: 30px;
+    }
+    .serv-con{
+        padding: 10px 130px;
+    }
+    .hg-serv:nth-child(3){
+        margin-top: 15px;
+    
+    }
+    .footer-col-pad-1 h2{
+        font-size: 30px;
+    }
+}
+@media screen and (max-width:970px) {
+    .login-col:nth-child(2){
+        height: 400px;
+    }
+}
+@media screen and (max-width: 950px){
+    .about-cont1 h1{
+        font-size: 43px;
+    }
+    .animation{
+        transform: translateX(30px);
+    }
+}
+@media screen and (max-width: 930px){
+    .lt-tc-crd{
+        height: 440px;
+    }
+}
+@media screen and (max-width: 890px){
+    .about{
+        width: 100%;
+        height: 60vh;
+    }
+    .info-carasoul {
+        width: 100%;
+        height: 60vh;
+    }
+    .about-area{
+        flex-wrap: wrap;
+    }
+    .about-cont1{
+        width: 80%;
+    }
+    .nav-2{
+        display: none !important;
+    }
+    .nav-3{
+        display: block;
+        margin-right: 30px;
+    }
+    nav{
+        justify-content: space-between;
+    }
+    .hamburger{
+        height: 100px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .fixed-nav{
+        display: none !important;
+    }
+    .pic-ctn{
+        margin-top: 7vh;
+    }
+      
+    .pic-ctn > img{
+        height: 320px;
+    }
+    .serv-con{
+        padding: 10px 110px;
+    }
+}
+@media screen and (max-width: 850px){
+    .about-cont1 h1{
+        font-size: 47px;
+    }
+    .about-cont1{
+        width: 70%;
+    }
+    .about-cont2 {
+        width: 70%;
+    }
+    .forEnd{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .card img{
+        height: 65%;
+        width: 35%;
+    }
+}
+@media screen and (max-width:800px) {
+    .overlay-container {
+        width: 30%;
+    }
+    .sign-up-container{
+        width: 80%;
+    }
+    .sign-in-container {
+        width: 80%;
+    }
+    .overlay-container{
+        left: 70%;
+    }
+    .container-f.right-panel-active .overlay-container{
+        transform: translateX(-240%);
+    }
+    .container-f.right-panel-active .sign-up-container{
+        transform: translateX(30%);
+    }
+}
+@media screen and (max-width: 768px){
+    .class div{
+        flex-direction: row;
+        padding-left: 0px 20px;
+    }
+    .card img{
+        height: 70%;
+        width: 40%;
+    }
+    .class{
+        height: 280px;
+    }
+    .latest-news-row-gap{
+        gap: 10px;
+    }
+    .for-center-cards{
+        display: flex;
+        justify-content: center;
+    }
+    .crd-info-1{
+        padding: 0px 0px 0px 40px;
+    }
+    .lt-tc-crd{
+        height: auto;
+    }
+    .tc-crd-cont-1 img{
+        height: 170px;
+    }
+    .serv-con{
+        padding: 10px 60px;
+    }
+}
+@media screen and (max-width:710px){
+    .footer-col-pad-1 h2{
+        font-size: 25px;
+    }
+    .footer-col-pad-1 img{
+        height: 70px;
+        width: 120px;
+    }
+}
+@media screen and (max-width: 700px){
+    .about-cont1 h1{
+        font-size: 40px;
+    }
+    .serv-con{
+        padding: 10px 30px;
+    }
+}
+@media screen and (max-width:660px) {
+    .about-cont{
+        padding: 20px 40px;
+    }
+}
+@media screen and (max-width:650px) {
+    .overlay-container{
+        display: none;
+    }
+    .sign-up-container{
+        width: 100%;
+    }
+    .sign-in-container {
+        width: 100%;
+    }
+    .form-container:nth-child(2){
+        height: 85%;
+    }
+    .create-acc{
+        display: flex;
+    }
+    .container-f.right-panel-active .sign-up-container{
+        transform: translateX(0%);
+    }
+    .remove{
+        display: none;
+    }
+    .login-col:nth-child(2){
+        height: 520px;
+    }
+    .secure-lg h2{
+        font-size: 33px;
+    }
+}
+@media screen and (max-width:625px){
+    .footer-col-pad-1 h2{
+        font-size: 23px;
+    }
+    .footer-col-pad-1 img{
+        height: 50px;
+        width: 100px;
+    }
+}
+@media screen and (max-width: 610px){
+    .fa-bars {
+        font-size: 22px;
+    }
+    .about-cont2 div{
+        width: 85%;
+    }
+    .animation{
+        transform: translateX(18px);
+    }
+    .back-image{
+        background-position:center;
+    }
+    .nav-1 img{
+        height: 90px;
+    }
+    nav{
+        padding: 20px 30px;
+    }
+    .class{
+        height: 300px;
+    }
+    .tc-crd-cont-1 img{
+        height: 150px;
+    }
+    .serv-con{
+        padding: 10px 20px;
+    }
+}
+@media screen and (max-width:576px){
+    .about-cont{
+        padding: 20px 80px;
+    }
+    .about-crd-height{
+        border: none;
+        border-bottom: 1px solid gray !important;
+        margin-top: 10px;
+    }
+    .serv-con{
+        padding: 10px 110px;
+    }
+    .serv-hed{
+        text-align: center;
+    }
+    .hg-serv:nth-child(2){
+        margin-top: 15px;
+    
+    }
+    .footer-col-pad-1 h2{
+        font-size: 27px;
+    }
+    .footer-col-pad-1 img{
+        height: 80px;
+        width: 120px;
+    }
+    .footer-last-col-col2 div h4{
+        font-size: 20px;
+    }
+    .footer-col:nth-child(2){
+        height: 300px;
+    }
+    .footer-col:nth-child(3){
+        height: 300px;
+    }
+    .footer-col:nth-child(4){
+        height: 300px;
+    }
+}
+@media screen and (max-width:520px){
+    .serv-con{
+        padding: 10px 80px;
+    }
+}
+@media screen and (max-width: 510px){
+    .fa-bars {
+        font-size: 20px;
+    }
+    .nav-3{
+        margin-right: 25px;
+    }
+    .about-cont1 h1{
+        font-size: 35px;
+    }
+    .pic-ctn > img{
+        height: 300px;
+    }
+    .about{
+        height: 55vh;
+    }
+    .class div{
+        flex-direction: column;
+        padding: 5px 10px;
+        overflow: hidden;
+        text-align: center;
+    }
+    .class{
+        height: 350px;
+    }
+    .class div p{
+        font-size: 14px;
+    }
+    .crd-info-1 h3{
+        font-size: 30px;
+    }
+    .cards-heading h2{
+        text-align: center;
+    }
+}
+@media screen and (max-width:500px) {
+    .about-cont{
+        padding: 20px 40px;
+    }
+
+}
+@media screen and (max-width: 450px){
+    .about-cont1{
+        width: 100%;
+    }
+    .about-cont2{
+        width: 100%;
+    }
+    .nav-1 img{
+        height: 70px;
+    }
+    nav{
+        padding: 5px 20px;
+    }
+    .pic-ctn > img{
+        height: 280px;
+        width: 180px;
+    }
+    .about{
+        height: 45vh;
+    }
+    .class div p{
+        font-size: 13px;
+    }
+    .card img{
+        height: 75%;
+        width: 50%;
+    }
+    .about-child1{
+        height: 30vh;
+    }
+    .crd-info2 div h4{
+        font-size: 19px;
+    }
+    .crd-info-2 div{
+        height: 45px;
+        width: 45px;
+        font-size: 25px;
+    }
+    p{
+        font-size: 15px !important;
+    }
+    h1{
+        font-size: 28px !important;
+    }
+    h2{
+        font-size: 27px !important;
+    }
+    h3{
+        font-size: 25px !important;
+    }
+    h4{
+        font-size: 20px !important;
+    }
+    h5{
+        font-size: 18px !important;
+    }
+    h6{
+        font-size: 16px !important;
+    }
+    .tc-crd-cont-1 img{
+        height: 130px;
+    }
+    .col-12-cont-hed{
+        text-align: center;
+    }
+    .tc-crd-cont-1{
+        padding: 40px;
+    }
+    .serv-con{
+        padding: 10px 60px;
+    }
+}
+@media screen and (max-width: 410px){
+    .nav-1 h1 {
+        font-size: 23px;
+    }
+    .fa-bars {
+        font-size: 17px;
+    }
+    .nav-3{
+        margin-right: 20px;
+    }
+    .about-cont1 h1{
+        font-size: 31px;
+    }
+    .info-carasoul{
+        height: 50vh;
+    }
+    .crd-info2 div h4{
+        font-size: 17px;
+    }
+    .crd-info2 div p{
+        font-size: 15px;
+    }
+    .crd-info-1 h3{
+        font-size: 25px;
+    }
+    .crd-info-1{
+        padding: 0px 0px 0px 40px;
+    }
+    .class{
+        height: 360px;
+    }
+}
+@media screen and (max-width:400px) {
+    .login-col:nth-child(2){
+        height: 630px;
+    }
+    .secure-lg h2{
+        font-size: 25px;
+    }
+}
+@media screen and (max-width:380px){
+    .serv-con{
+        padding: 10px 30px;
+    }
+}
+@media screen and (max-width:350px) {
+    .about-cont{
+        padding: 20px 20px;
+    }
+    .footer-col-pad-1 h2{
+        font-size: 25px;
+    }
+    .footer-col-pad-1 img{
+        height: 60px;
+        width: 100px;
+    }
+}
+
+@media screen and (max-width: 340px){
+    .fa-bars {
+        font-size: 15px;
+    }
+    .nav-3{
+        margin-right: 15px;
+    }
+    .about-cont1 h1{
+        font-size: 28px;
+    }
+    .crd-info2 div p{
+        font-size: 13px;
+    }
+    .crd-info-1 h3{
+        font-size: 22px;
+    }
+    .crd-info-1{
+        padding: 0px 0px 0px 30px;
+    }
+    p{
+        font-size: 13px !important;
+    }
+}

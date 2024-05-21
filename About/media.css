@@ -1,0 +1,330 @@
+@media screen and (max-width: 1290px){
+    .introduction-cont p{
+        font-size: 18px;
+    }
+}
+@media screen and (max-width: 1200px){
+    .forEnd{
+        width: 100%;
+    }
+    .about-area div{
+        padding: 0px 0px 0px 200px;
+    }
+    .pic-ctn > img{
+        height: 350px;
+    }
+}
+@media screen and (max-width: 1150px){
+    .introduction-area{
+        flex-direction: column;
+    }
+    .intro-pic-cont{
+        margin-left: 300px;
+        width: 60%;
+        height: 60vh;
+    }
+    .pic-ctn{
+        margin-top: 10vh;
+    }
+    .introduction-cont{
+        width: 55%;
+    }
+    #about-us-col-1{
+        padding: 50px 70px 40px 70px;
+    }
+    #about-us-col-2{
+        padding: 50px 70px 40px 70px;
+    }
+}
+@media screen and (max-width: 1030px){
+    .about-area div{
+        padding: 0px 0px 0px 140px;
+    }
+    .intro-pic-cont{
+        margin-left: 170px;
+        width: 75%;
+    }
+    .introduction-cont{
+        width: 60%;
+    }
+}
+@media screen and (max-width: 890px){
+    .nav-2{
+        display: none !important;
+    }
+    .nav-3{
+        display: block;
+        margin-right: 30px;
+    }
+    nav{
+        justify-content: space-between;
+    }
+    .hamburger{
+        height: 100px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .fixed-nav{
+        display: none !important;
+    }
+    .about-area div{
+        padding: 0px 0px 0px 100px;
+    }
+    .intro-pic-cont{
+        margin-left: 100px;
+        width: 85%;
+    }
+    .introduction-cont{
+        width: 70%;
+    }
+    .introduction-cont p{
+        font-size: 17px;
+    }
+    .pic-ctn{
+        margin-top: 7vh;
+    }
+      
+    .pic-ctn > img{
+        height: 320px;
+    }
+}
+@media screen and (max-width: 800px){
+    .intro-pic-cont{
+        margin-left: 50px;
+        width: 90%;
+    }
+    .introduction-cont{
+        width: 75%;
+    }
+}
+@media screen and (max-width: 750px){
+    .about-area div{
+        padding: 0px 0px 0px 70px;
+    }
+    .intro-pic-cont{
+        margin-left: 10px;
+        width: 93%;
+    }
+    .introduction-cont{
+        width: 75%;
+    }
+    .introduction-area{
+        padding: 80px 20px 40px 40px;
+        gap: 40px;
+    }
+    #about-us-col-1{
+        padding: 70px 50px 0px 50px;
+    }
+    #about-us-col-2{
+        padding: 30px 50px 40px 50px;
+    }
+}
+@media screen and (max-width: 650px){
+    .about-area div{
+        padding: 0px 0px 0px 40px;
+    }
+    .intro-pic-cont{
+        margin-left: 5px;
+        width: 95%;
+        height: 50vh;
+    }
+    .introduction-cont{
+        width: 80%;
+    }
+    .introduction-area{
+        padding: 80px 20px 40px 20px;
+        gap: 10px;
+    }
+    .introduction-cont p{
+        font-size: 15px;
+    }
+}
+@media screen and (max-width: 610px){
+    .fa-bars {
+        font-size: 22px;
+    }
+    .back-image{
+        background-position: right ;
+    }
+    .nav-1 img{
+        height: 90px;
+    }
+    nav{
+        padding: 20px 30px;
+    }
+    .about-area div{
+        padding: 0px 0px 0px 20px;
+    }
+    .about-area div h1{ 
+        font-size: 40px;
+    }
+    .about-area div p{ 
+        font-size: 18px;
+    }
+}
+@media screen and (max-width: 560px){
+    .introduction-cont{
+        width: 90%;
+    }
+    #about-us-col-1{
+        padding: 70px 30px 0px 30px;
+    }
+    #about-us-col-2{
+        padding: 30px 30px 40px 30px;
+    }
+}
+@media screen and (max-width: 510px){
+    .fa-bars {
+        font-size: 20px;
+    }
+    .nav-3{
+        margin-right: 25px;
+    }
+    .intro-cont-row-col{
+        height: 17vh;
+    }
+    .about-para{
+        font-size: 15px;
+    }
+    .pic-ctn > img{
+        height: 300px;
+    }
+}
+@media screen and (max-width: 450px){
+    .nav-1 img{
+        height: 70px;
+    }
+    nav{
+        padding: 5px 20px;
+    }
+    .introduction-cont{
+        width: 95%;
+    }
+    .introduction-cont p{
+        font-size: 13px;
+    }
+    .pic-ctn > img{
+        height: 280px;
+    }
+    p{
+        font-size: 15px !important;
+    }
+    h1{
+        font-size: 28px !important;
+    }
+    h2{
+        font-size: 27px !important;
+    }
+    h3{
+        font-size: 25px !important;
+    }
+    h4{
+        font-size: 20px !important;
+    }
+    h5{
+        font-size: 18px !important;
+    }
+    h6{
+        font-size: 16px !important;
+    }
+}
+@media screen and (max-width: 410px){
+    .nav-1 h1 {
+        font-size: 23px;
+    }
+    .fa-bars {
+        font-size: 17px;
+    }
+    .nav-3{
+        margin-right: 20px;
+    }
+    #about-us-col-1{
+        padding: 70px 15px 0px 15px;
+    }
+    #about-us-col-2{
+        padding: 30px 15px 40px 15px;
+    }
+}
+@media screen and (max-width: 360px){
+    .about-para{
+        font-size: 13px;
+    }
+}
+@media screen and (max-width: 340px){
+    .fa-bars {
+        font-size: 15px;
+    }
+    .nav-3{
+        margin-right: 15px;
+    }
+}
+/* footer section */
+
+@media screen and (max-width:1150px){
+    .footer-col-pad-1{
+        padding: 10px 0px 0px 0px;
+    }
+    .footer-col-pad-1 h2{
+        font-size: 25px;
+    }
+    .footer-col-pad-2{
+        padding: 0px 0px 0px 20px;
+    }
+    .footer-col-pad-3{
+        padding: 0px 0px 40px 15px ;
+    }
+}
+@media screen and (max-width:992px){
+    .footer-col-pad-1 h2{
+        font-size: 30px;
+    }
+}
+@media screen and (max-width:720px){
+    .footer-col-pad-1 h2{
+        font-size: 25px;
+    }
+    .footer-col-pad-1 img{
+        height: 70px;
+        width: 120px;
+    }
+}
+@media screen and (max-width:625px){
+    .footer-col-pad-1 h2{
+        font-size: 23px;
+    }
+    .footer-col-pad-1 img{
+        height: 50px;
+        width: 100px;
+    }
+}
+@media screen and (max-width:576px){
+    .footer-col-pad-1 h2{
+        font-size: 27px;
+    }
+    .footer-col-pad-1 img{
+        height: 80px;
+        width: 120px;
+    }
+    .footer-last-col-col2 div h4{
+        font-size: 20px;
+    }
+    .footer-col:nth-child(2){
+        height: 300px;
+    }
+    .footer-col:nth-child(3){
+        height: 300px;
+    }
+    .footer-col:nth-child(4){
+        height: 300px;
+    }
+}
+@media screen and (max-width:350px){
+    .footer-col-pad-1 h2{
+        font-size: 25px;
+    }
+    .footer-col-pad-1 img{
+        height: 60px;
+        width: 100px;
+    }
+}
